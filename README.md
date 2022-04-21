@@ -1,7 +1,7 @@
 Hi 👋 My name is Pushkar Ishware
 ================================
 
-Web Developer (Backend)
+Senior Software Engineer (3+ years of Experience)
 -----------------------
 
 * 🌍  I'm based in India
